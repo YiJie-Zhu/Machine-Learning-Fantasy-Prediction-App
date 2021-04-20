@@ -11,7 +11,7 @@ conda create -n nbaApp python=3.7
 activate nbaApp 
 ```
 
-Install the nessesary packages
+Install the necessary packages
 
 ```
 pip install tensorflow sklearn numpy keras
