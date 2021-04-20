@@ -6,22 +6,22 @@ This Python program generates models to predict an NBA player's preformance depe
 
 This project uses Ananconda
 
-'''
+```
 conda create -n nbaApp python=3.7
 activate nbaApp 
-'''
+```
 
 Install the nessesary packages
 
-'''
+```
 pip install tensorflow sklearn numpy keras
-'''
+```
 
 Run program
-'''
+```
 //Navigate to directory with main.py
 python main.py
-'''
+```
 
 
 # Description: Static Model
