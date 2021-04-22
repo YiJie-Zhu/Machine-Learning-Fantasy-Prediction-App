@@ -1,6 +1,6 @@
 # Machine-Learning-Fantasy-Prediction-App
 
-This Python program generates models to predict an NBA player's preformance depending on their preformance in previous game/seasons. Perfect for Fantasy Sports.
+This Python program generates models to predict an NBA player's preformance based on their preformance in previous game/seasons. Perfect for Fantasy Sports.
 
 # Setting Up
 
